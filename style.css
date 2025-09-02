@@ -152,7 +152,8 @@
             background-color: var(--cor4);
             padding: 50px;
             margin: auto;
-            width: 60%;
+            width: 80%;
+            min-height: 200;
         }
 
         aside {
